@@ -1,0 +1,16 @@
+redeem_codes:
+  general:
+    - code: "XYZ123ABC"
+      status: "unused"
+      expiration_date: "2024-12-31"
+      value: 10.00
+  seasonal:
+    - code: "WINTER2024XYZ"
+      status: "unused"
+      expiration_date: "2024-12-15"
+      value: 5.00
+  promotional:
+    - code: "SUMMER2024ABC"
+      status: "used"
+      used_on: "2024-06-30"
+      value: 15.00
